@@ -3,7 +3,7 @@ Communicate With eToro Wallet Support Person By Following the Steps
 ##################
 
 .. meta::
-   :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
+   :msvalidate.01: FC0190A1F1F21F7013465810D2AC723E
 
 .. meta::
    :description: Trust Wallet is one of the most widely used decentralized cryptocurrency wallets in the world.
