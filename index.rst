@@ -40,10 +40,6 @@ To improve your chances of getting quick and accurate help, follow these tips:
 - Use clear formatting and avoid vague titles.
 - Include any screenshots (excluding private data).
 
-<div style="padding: 15px; background-color: #e6f7ff; border-left: 4px solid #1990ff; margin-top: 1em;">
-    <strong>Pro Tip:</strong> Support forums are indexed by search engines, so always check existing topics before posting.
-</div>
-
 Security Reminder
 ------------------
 
